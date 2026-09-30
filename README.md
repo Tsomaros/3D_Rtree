@@ -90,6 +90,3 @@ The main data structure providing `insert(point)` and `search(min_x, min_y, min_
 
 ## Applications
 A 3D spatial-temporal index can be useful for spatiotemporal data indexing, moving-object data, GIS, trajectory and event queries, and location-based time-series data.
-
-## License
-This project does not currently specify a license.
